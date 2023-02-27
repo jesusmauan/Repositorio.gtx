@@ -4,7 +4,7 @@
 
 Para rodar este projeto em seu computador,é precisar instalar e configurar o Boostrap
 
-###Instalar via gerenciador de pacotes
+Instalar via gerenciador de pacotes
 
 ```
 npm install boostrap@5.3.0-alpha1
